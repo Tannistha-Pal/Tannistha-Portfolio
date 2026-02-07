@@ -36,7 +36,7 @@ const Projects = ({ isVisible }) => {
       description: 'A responsive portfolio website showcasing my projects and skills. Built with React and modern CSS techniques, featuring smooth animations and dark theme.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
       tech: ['React', 'CSS3', 'JavaScript', 'Responsive Design'],
-      liveUrl: 'https://tannistha-pal.github.io/Tannistha-Portfolio/',
+      liveUrl: 'https://tannistha-portfolio.vercel.app/',
       githubUrl: 'https://github.com/Tannistha-Pal/Tannistha-Portfolio',
       icon: <Globe size={20} />
     }
